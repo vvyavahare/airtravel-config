@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "flight-api related production properties "
+  contactDetails:
+    name: "Vyavahare Vishal - Product Owner"
+    email: "vishalvtest@gmail.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
