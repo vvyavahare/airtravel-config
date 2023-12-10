@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 
-loans:
+flight-api:
   message: "flight-api related production properties "
   contactDetails:
     name: "Vyavahare Vishal - Product Owner"
